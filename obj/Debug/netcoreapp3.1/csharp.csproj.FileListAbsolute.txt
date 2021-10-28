@@ -1,0 +1,12 @@
+/Users/ian/Documents/GitHub/csharp/bin/Debug/netcoreapp3.1/csharp.deps.json
+/Users/ian/Documents/GitHub/csharp/bin/Debug/netcoreapp3.1/csharp.runtimeconfig.json
+/Users/ian/Documents/GitHub/csharp/bin/Debug/netcoreapp3.1/csharp.runtimeconfig.dev.json
+/Users/ian/Documents/GitHub/csharp/bin/Debug/netcoreapp3.1/csharp.dll
+/Users/ian/Documents/GitHub/csharp/bin/Debug/netcoreapp3.1/csharp.pdb
+/Users/ian/Documents/GitHub/csharp/obj/Debug/netcoreapp3.1/csharp.csprojAssemblyReference.cache
+/Users/ian/Documents/GitHub/csharp/obj/Debug/netcoreapp3.1/csharp.AssemblyInfoInputs.cache
+/Users/ian/Documents/GitHub/csharp/obj/Debug/netcoreapp3.1/csharp.AssemblyInfo.cs
+/Users/ian/Documents/GitHub/csharp/obj/Debug/netcoreapp3.1/csharp.csproj.CoreCompileInputs.cache
+/Users/ian/Documents/GitHub/csharp/obj/Debug/netcoreapp3.1/csharp.dll
+/Users/ian/Documents/GitHub/csharp/obj/Debug/netcoreapp3.1/csharp.pdb
+/Users/ian/Documents/GitHub/csharp/obj/Debug/netcoreapp3.1/csharp.genruntimeconfig.cache
